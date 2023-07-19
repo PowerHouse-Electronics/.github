@@ -1,4 +1,4 @@
-# PowerHouse Electronics
+# PowerHouse Electronics 
 
 Este proyecto es parte de una asignatura universitaria y consiste en el desarrollo de una aplicación Android y una API para facilitar la venta de electrónicos.
 
